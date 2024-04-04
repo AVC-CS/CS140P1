@@ -10,8 +10,8 @@
 
 ## If you want to add an additional file
 
-> git add filename.pdf 
-> git commit . -m "your message"
-> git push 
+> git add filename.pdf <br>
+> git commit . -m "your message" <br>
+> git push <br>
 
 
